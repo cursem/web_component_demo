@@ -11,3 +11,4 @@ docs
 .huskyrc
 .commitlint.config.js
 .commitlint.config
+package.json
