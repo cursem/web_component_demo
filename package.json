@@ -1,6 +1,6 @@
 {
   "name": "tootoflu_test",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "tools",
   "main": "dist/vtools.umd.js",
   "module": "dist/vtools.esm.js",
