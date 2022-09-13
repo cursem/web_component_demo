@@ -1,6 +1,6 @@
 {
   "name": "@vtian/vtools",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "tools",
   "main": "dist/vtools.umd.js",
   "module": "dist/vtools.esm.js",
