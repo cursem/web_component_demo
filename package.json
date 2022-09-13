@@ -1,5 +1,5 @@
 {
-  "name": "@vtian/vtools",
+  "name": "tootoflu_test",
   "version": "2.0.1",
   "description": "tools",
   "main": "dist/vtools.umd.js",
