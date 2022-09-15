@@ -1,6 +1,6 @@
 {
   "name": "@tootoflu/tootoflu_test",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "tools",
   "main": "dist/vtools.umd.js",
   "module": "dist/vtools.esm.js",
