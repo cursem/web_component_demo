@@ -1,5 +1,5 @@
 {
-  "name": "@volcengine/web_component_demo",
+  "name": "@volcengine_component/web_component_demo",
   "version": "1.0.0",
   "description": "tools",
   "main": "dist/vtools.umd.js",
